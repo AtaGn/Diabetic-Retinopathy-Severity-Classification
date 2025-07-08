@@ -2,8 +2,8 @@
 
 ## Team Members
 
-- Ata Güneş: [GitHub](https://github.com/AtaGn)  |  [Proje Repository](https://github.com/AtaGn/Student-Performance-Predictor)
-- Esra Cesur: [GitHub](https://github.com/esracesur4)  |  [Proje Repository](https://github.com/EsraCesur4/Academic-Performance-Predictor)
+- Ata Güneş: [GitHub](https://github.com/AtaGn) 
+- Esra Cesur: [GitHub](https://github.com/esracesur4)
 
 ## Project Overview
 
